@@ -1,0 +1,3 @@
+#fourth 
+[[Truth]]
+[[Opposing ideologies]]

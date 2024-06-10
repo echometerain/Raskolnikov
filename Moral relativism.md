@@ -1,0 +1,3 @@
+#fourth 
+[[Nihilism]]
+[[Individualism]]

@@ -1,0 +1,9 @@
+#first 
+[[Strained]]
+[[Suffering]]
+[[Beating]]
+[[Empathy]]
+[[Female]]
+[[Brutality]]
+[[Death]]
+[[Horse]]

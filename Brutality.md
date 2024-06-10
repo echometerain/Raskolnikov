@@ -1,0 +1,4 @@
+#latent
+[[Devil]]
+[[Property]]
+[[Death]]

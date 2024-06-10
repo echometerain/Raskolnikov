@@ -1,0 +1,4 @@
+#latent
+[[Death]]
+[[Paralysis]]
+[[Scream]]

@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "f99f5d642773989e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b390a67e9aa5f48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c42c81466a8a887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Accusation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0fb50a6c489f9b1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ce5bb4d8b2fe5bdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Axe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4682e8c1b652af93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skull.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e97be5860c03013c",
+    "type": "split",
+    "children": [
+      {
+        "id": "85f413ac8c572898",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf7c99c8fa4ca865",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "0a970cde00d818b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#second",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e774cab482e8f076",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "19620f12ef77ae69",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f13e4b83882d9bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b68575be0512411c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Accusation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5ae7827f0933786",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Accusation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "340c9dc8a761e894",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0882dc5a3839820d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Accusation.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e0fb50a6c489f9b1",
+  "lastOpenFiles": [
+    "Skull.md",
+    "Axe.md",
+    "Accusation.md",
+    "Christianity.md",
+    "Easter.md",
+    "Chosen.md",
+    "Physical labor abandoned.md",
+    "Opposing ideologies.md",
+    "Armies.md",
+    "Moral relativism.md",
+    "Hatred.md",
+    "Anger.md",
+    "Intelligence.md",
+    "Plague.md",
+    "Fever.md",
+    "Prison.md",
+    "Laughing.md",
+    "Stairs.md",
+    "Ilya Petrovitch.md",
+    "Obscured.md",
+    "Chair.md",
+    "Cloak.md",
+    "Window.md",
+    "Fly.md",
+    "Dark.md",
+    "Alyona flat.md"
+  ]
+}
